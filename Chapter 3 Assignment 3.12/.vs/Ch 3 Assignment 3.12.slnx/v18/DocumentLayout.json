@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mcons\\source\\repos\\Ch 3 Assignment 3.12\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A3A9A71-03DF-40FA-BB54-3A4FE82DAEAB}|Ch 3 Assignment 3.12.vcxproj|C:\\Users\\mcons\\source\\repos\\Ch 3 Assignment 3.12\\Ch 3 Assignment 3.12.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9A3A9A71-03DF-40FA-BB54-3A4FE82DAEAB}|Ch 3 Assignment 3.12.vcxproj|solutionrelative:Ch 3 Assignment 3.12.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ch 3 Assignment 3.12.cpp",
+              "DocumentMoniker": "C:\\Users\\mcons\\source\\repos\\Ch 3 Assignment 3.12\\Ch 3 Assignment 3.12.cpp",
+              "RelativeDocumentMoniker": "Ch 3 Assignment 3.12.cpp",
+              "ToolTip": "C:\\Users\\mcons\\source\\repos\\Ch 3 Assignment 3.12\\Ch 3 Assignment 3.12.cpp*",
+              "RelativeToolTip": "Ch 3 Assignment 3.12.cpp*",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAgwCAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-31T18:54:31.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
