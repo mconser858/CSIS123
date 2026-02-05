@@ -1,0 +1,15 @@
+# Visual Studio temporary files and build results
+.vs/
+*.user
+*.suo
+*.vcxproj.user
+*.cache
+*.pdb
+*.obj
+*.idb
+*.exe
+*.ilk
+*.log
+x64/
+Debug/
+Release/
